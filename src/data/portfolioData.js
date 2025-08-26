@@ -6,14 +6,14 @@ export const portfolioSections = [
     title: "Branding",
     description: "Crafting memorable visual identities that tell a story and build brand loyalty.",
     cards: [
-      { img: "https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", title: "Brand Guidelines", description: "Comprehensive guides for consistent brand application." },
-      { img: "https://images.pexels.com/photos/163065/mobile-phone-mockup-business-office-163065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", title: "Stationery & Mockups", description: "Professional business cards, letterheads, and digital assets." },
-      { img: "https://images.pexels.com/photos/7147040/pexels-photo-7147040.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", title: "Visual Identity Systems", description: "Holistic systems including logos, color palettes, and typography." },
-      { img: "https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", title: "Full Brand Identity Mockup", description: "Showcasing logo and assets across multiple media." },
-      { img: "https://images.pexels.com/photos/1697912/pexels-photo-1697912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", title: "Stationery Suite", description: "Elegant business cards, letterheads, and envelopes." },
-      { img: "https://images.pexels.com/photos/392018/pexels-photo-392018.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", title: "Website Branding", description: "Applying the brand identity to a modern website." },
-      { img: "https://images.pexels.com/photos/7773223/pexels-photo-7773223.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", title: "Luxury Box Design", description: "Premium packaging solutions for high-end products." },
-      { img: "https://images.pexels.com/photos/5864192/pexels-photo-5864192.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", title: "Cosmetic Bottle Labels", description: "Compliant and beautiful labels for the beauty industry." }
+      { img: "/portfolio/brand-project-7.jpg", title: "Brand Guidelines", description: "Comprehensive guides for consistent brand application." },
+      { img: "/portfolio/brand-project-8.jpg", title: "Stationery & Mockups", description: "Professional business cards, letterheads, and digital assets." },
+      { img: "/portfolio/brand-project-1.jpg", title: "Visual Identity Systems", description: "Holistic systems including logos, color palettes, and typography." },
+      { img: "/portfolio/brand-project-2.jpg", title: "Full Brand Identity Mockup", description: "Showcasing logo and assets across multiple media." },
+      { img: "/portfolio/brand-project-3.jpg", title: "Stationery Suite", description: "Elegant business cards, letterheads, and envelopes." },
+      { img: "/portfolio/brand-project-4.jpg", title: "Website Branding", description: "Applying the brand identity to a modern website." },
+      { img: "/portfolio/brand-project-5.jpg", title: "Luxury Box Design", description: "Premium packaging solutions for high-end products." },
+      { img: "/portfolio/brand-project-6.jpg", title: "Cosmetic Bottle Labels", description: "Compliant and beautiful labels for the beauty industry." }
     ]
   },
   {
@@ -21,14 +21,14 @@ export const portfolioSections = [
     title: "Social Media",
     description: "Designing engaging and shareable content that grows your audience and drives results.",
     cards: [
-      { img: "https://images.pexels.com/photos/5999933/pexels-photo-5999933.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", title: "Instagram Post Templates", description: "Visually consistent and reusable templates for your feed." },
-      { img: "https://images.pexels.com/photos/3769747/pexels-photo-3769747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", title: "Performance Ad Creatives", description: "Eye-catching ads optimized for conversion on all platforms." },
-      { img: "https://images.pexels.com/photos/7648325/pexels-photo-7648325.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", title: "Short-Form Video Graphics", description: "Engaging graphics for TikTok, Reels, and Shorts." },
-      { img: "https://images.pexels.com/photos/4057753/pexels-photo-4057753.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", title: "Instagram Feed Mockup", description: "A visually consistent and attractive Instagram grid layout." },
-      { img: "https://images.pexels.com/photos/6476587/pexels-photo-6476587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", title: "Social Media Ad Campaign", description: "A full ad campaign showcased on a laptop screen." },
-      { img: "https://images.pexels.com/photos/4348401/pexels-photo-4348401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", title: "Content Templates", description: "A set of reusable and on-brand templates for daily posts." },
-      { img: "https://images.pexels.com/photos/6476805/pexels-photo-6476805.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", title: "Mobile Social Preview", description: "Previewing the social media feed on a mobile device." },
-      { img: "https://images.pexels.com/photos/5077063/pexels-photo-5077063.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", title: "Influencer Post Mockup", description: "Designing posts for influencer marketing campaigns." }
+      { img: "/portfolio/1brand-project-4.jpg", title: "Instagram Post Templates", description: "Visually consistent and reusable templates for your feed." },
+      { img: "/portfolio/1brand-project-8.jpg", title: "Performance Ad Creatives", description: "Eye-catching ads optimized for conversion on all platforms." },
+      { img: "/portfolio/1brand-project-7.jpg", title: "Short-Form Video Graphics", description: "Engaging graphics for TikTok, Reels, and Shorts." },
+      { img: "/portfolio/1brand-project-6.jpg", title: "Instagram Feed Mockup", description: "A visually consistent and attractive Instagram grid layout." },
+      { img: "/portfolio/1brand-project-5.jpg", title: "Social Media Ad Campaign", description: "A full ad campaign showcased on a laptop screen." },
+      { img: "/portfolio/1brand-project-1.jpg", title: "Content Templates", description: "A set of reusable and on-brand templates for daily posts." },
+      { img: "/portfolio/1brand-project-2.jpg", title: "Mobile Social Preview", description: "Previewing the social media feed on a mobile device." },
+      { img: "/portfolio/1brand-project-3.jpg", title: "Influencer Post Mockup", description: "Designing posts for influencer marketing campaigns." }
     ]
   },
   // ... and so on for all other categories. The full file is provided.
