@@ -4,7 +4,7 @@ import Hero from '../components/Hero';
 import Section from '../components/Section';
 import Card from '../components/Card';
 import Contents from '../components/Contents';
-import Contact from '../components/Contact';
+import Contact from '../components/Contact.jsx';
 import About from '../components/About';
 import Experience from '../components/Experience';
 import { portfolioSections } from '../data/portfolioData.js';
